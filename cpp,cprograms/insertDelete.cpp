@@ -77,7 +77,7 @@ int main() {
     freeList(head);
     return 0;
 }
-
+//the cpp equivaled for insertion at different position of the lise in comments for reference and knowlegde
 // #include<bits/stdc++.h>
 // using namespace std;
 // struct Node{
@@ -187,4 +187,5 @@ int main() {
 //     head = deletek(head,3);
 //     printList(head);      // prints: 3 4 7
 //     // free list here...
+
 // }
